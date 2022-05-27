@@ -1,4 +1,4 @@
-package taxi.web.filter;
+package taxi.util.filter;
 
 import java.io.IOException;
 import java.util.HashSet;
