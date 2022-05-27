@@ -117,7 +117,7 @@ public class Injector {
      * @param packageName The base package
      * @return The classes
      * @throws ClassNotFoundException if the class cannot be located
-     * @throws IOException            if I/O errors occur
+     * @throws java.io.IOException            if I/O errors occur
      */
 
     private static List<Class<?>> getClasses(String packageName)
